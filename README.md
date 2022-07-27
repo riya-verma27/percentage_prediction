@@ -1,1 +1,1 @@
-# percentage_prediction
+Designed a supervised machine learning model using linear regression that predicts the percentage of a student based on the number of hours he/she studies.Google Colab,Python are the tools and languages used.This model is trained on the dataset of more than 200 students.
